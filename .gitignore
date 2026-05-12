@@ -1,0 +1,10 @@
+# Binários
+main
+*.o
+
+# Dados e Gráficos gerados
+tempos_execucao.csv
+*.png
+
+# Python
+__pycache__/
